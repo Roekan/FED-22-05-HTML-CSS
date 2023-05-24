@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+}
+
+
+.container-titulo{
+    margin-top: 2vw;
+}
+
+
+h1{
+    letter-spacing: 0.4vw;
+    color:#b58851;
+    margin:0 auto;
+    text-align: center;
+}
+
+h2{
+    color:#77a12e;
+    margin-bottom: 0;
+}
+
+span{
+    color:#618713;
+    
+}
+
+.container-texto{
+    margin:1vw;
+    padding: 1vw;
+    border: 1px solid #a7a7a7;
+}
+
+.container-titulo{
+    border-bottom: 1px solid #a7a7a7;
+}
